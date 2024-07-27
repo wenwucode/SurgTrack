@@ -1,4 +1,4 @@
-# SurgTrack: 3D Tracking of Real-world Surgical Instruments
+# SurgTrack: CAD-Free 3D Tracking of Real-world Surgical Instruments
 
 <div align=center>
 <img src="./docs/framework.png"> 
